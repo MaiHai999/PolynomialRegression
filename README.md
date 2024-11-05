@@ -15,11 +15,6 @@ This project demonstrates how to implement Polynomial Regression from scratch us
 - **NumPy**: For numerical computations, including matrix operations and polynomial fitting.
 - **Matplotlib**: For plotting data points and the polynomial curve.
 
-## Project Structure
-
-- `polynomial_regression.py`: Contains the implementation of the polynomial regression algorithm.
-- `data.csv`: Sample dataset used for fitting the polynomial.
-- `plot.py`: Script for visualizing the data points and the fitted polynomial curve.
 
 ## How It Works
 
